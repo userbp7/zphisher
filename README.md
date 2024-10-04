@@ -4,6 +4,9 @@
   <img src=".github/misc/logo.png">
 </p>
 
+<div align="center">
+<a href="https://www.instagram.com/tohidkhan6332/"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=G0B1&center=true&width=910&height=100&lines=TERMUX+GUIDE+COMMAND;PROGRAM+By+Mr-Tohid" alt="Typing SVG" /></a>
+
 <p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
 
 ##
@@ -37,6 +40,14 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
 
+```bash
+termux-setup-storage
+```
+
+ ```bash
+$pkg update && pkg upgrade
+```
+
  ```bash
 pkg install git
 ```
@@ -68,6 +79,14 @@ pkg install tur-repo && pkg install zphisher && zphisher
 
 <details>
   <summary><h3>Tested on</h3></summary>
+
+- **Ubuntu**
+- **Debian**
+- **Arch**
+- **Manjaro**
+- **Fedora**
+- **Termux**
+</details>
 
 ##
 
