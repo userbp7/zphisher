@@ -45,7 +45,7 @@ termux-setup-storage
 ```
 
  ```bash
-$pkg update && pkg upgrade
+pkg update && pkg upgrade
 ```
 
  ```bash
