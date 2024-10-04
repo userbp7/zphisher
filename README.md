@@ -28,9 +28,9 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Latest and updated login pages.
 - Beginners friendly
 - Multiple tunneling options
-  - Localhost
-  - Cloudflared
-  - LocalXpose
+- Localhost
+- Cloudflared
+- LocalXpose
 - Mask URL support 
 - Docker support
 
