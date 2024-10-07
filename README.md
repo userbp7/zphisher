@@ -53,7 +53,7 @@ pkg install git
 ```
 
  ```bash
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/tohidkhan6332/zphisher.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
